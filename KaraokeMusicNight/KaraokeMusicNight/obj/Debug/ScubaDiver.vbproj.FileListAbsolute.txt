@@ -1,0 +1,13 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\bin\Debug\ScubaDiver.exe.config
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\bin\Debug\ScubaDiver.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\bin\Debug\ScubaDiver.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\bin\Debug\ScubaDiver.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\obj\Debug\ScubaDiver.vbprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\obj\Debug\ScubaDiver.Resources.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\obj\Debug\ScubaDiver.SplashScreen1.resources
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\obj\Debug\ScubaDiver.vbproj.GenerateResource.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\obj\Debug\ScubaDiver.vbproj.CoreCompileInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\obj\Debug\ScubaDiver.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\obj\Debug\ScubaDiver.xml
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\obj\Debug\ScubaDiver.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\VisualBasic\VisualBasic-chapter7\ScubaDiver\ScubaDiver\obj\Debug\ScubaDiver.frmScubaDiver.resources
