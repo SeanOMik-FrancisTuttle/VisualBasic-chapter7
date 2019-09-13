@@ -9,6 +9,8 @@ Public Class frmKaraokeMusicNight
 
         ' Make items visible in the window
 
+        Console.WriteLine(cboType.SelectedItem)
+
         ' Make a certain label visible depending on the selection
         Select Case cboType.SelectedIndex
             Case 0
